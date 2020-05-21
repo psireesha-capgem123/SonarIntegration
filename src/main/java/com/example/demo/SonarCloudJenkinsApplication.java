@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SonarCloudJenkinsApplication {
 
 	public static void main(String[] args) {
+		
 		SpringApplication.run(SonarCloudJenkinsApplication.class, args);
+		
 	}
 
 }
